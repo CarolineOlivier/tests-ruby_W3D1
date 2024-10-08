@@ -1,9 +1,9 @@
-def add (papi,mamie)
-    return (papi+mamie)
+def add (a,b)
+    return (a+b)
 end
 
-def subtract (tonton,tata)
-    return (tonton-tata)
+def subtract (a,b)
+    return (a-b)
 end
 
 def sum(bonbons)
